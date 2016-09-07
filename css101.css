@@ -1,0 +1,25 @@
+
+body {
+	background: #B0B0B0;
+
+}
+ header h1 {
+	border:4px blue solid;
+	text-align: center;
+	color: blue;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.blue {
+	color: red;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+}
+p {
+	font-size: 22px;
+
+}
